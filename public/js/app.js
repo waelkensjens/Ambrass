@@ -822,6 +822,16 @@ var map = {
 		"./resources/js/Pages/Welcome.vue",
 		"/js/vendor",
 		"resources_js_Pages_Welcome_vue"
+	],
+	"./test": [
+		"./resources/js/Pages/test.vue",
+		"/js/vendor",
+		"resources_js_Pages_test_vue"
+	],
+	"./test.vue": [
+		"./resources/js/Pages/test.vue",
+		"/js/vendor",
+		"resources_js_Pages_test_vue"
 	]
 };
 function webpackAsyncContext(req) {

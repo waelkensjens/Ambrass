@@ -13,7 +13,7 @@
     @inertiaHead
 </head>
 
-<body>
+<body class="bg-background-three">
 @inertia
 </body>
 
